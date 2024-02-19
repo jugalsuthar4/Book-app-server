@@ -7,8 +7,8 @@ This is a basic GoLang web server for a book application. It provides RESTful AP
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:jugalsuthar4/Book-app-server.git
+cd Book-app-server
 ```
 
 2. Install dependencies:
