@@ -65,6 +65,4 @@ Cross-Origin Resource Sharing (CORS) is configured to allow the following method
 
 - **Port:** 5001
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
